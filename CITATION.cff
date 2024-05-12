@@ -1,0 +1,10 @@
+@misc{syed_muhammad_hasanat_2024_11180623,
+  author       = {Syed Muhammad Hasanat},
+  title        = {Time Series Data Preparation for CNN and LSTM},
+  month        = may,
+  year         = 2024,
+  publisher    = {Zenodo},
+  version      = {v1.1},
+  doi          = {10.5281/zenodo.11180623},
+  url          = {https://doi.org/10.5281/zenodo.11180623}
+}
