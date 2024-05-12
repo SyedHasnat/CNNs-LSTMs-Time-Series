@@ -5,3 +5,4 @@
 - How to Load and Explore Household Energy Usage Data?
 - How to Develop CNNs for Multi-step Energy Usage Forecasting?
 = How to Develop LSTMs for Multi-step Energy Usage Forecasting?
+if it helped kindly cite <a href="https://doi.org/10.5281/zenodo.11180623"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.11180623.svg" alt="DOI"></a>
